@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Greeting Card</string>
+    <string name="selamat_idul_fitri_text">Selamat Hari Raya Idul Fitri</string>
+    <string name="signature_text">Daru</string>
+</resources>
